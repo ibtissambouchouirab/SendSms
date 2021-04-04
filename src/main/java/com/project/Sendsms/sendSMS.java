@@ -11,9 +11,9 @@ public class sendSMS {
 
        // Construct data
        String apiKey = "apikey=" + "RcxHWpRquys-FpiPJR2uIAByGyn29oiIR5IweejKI5";
-       String message = "&message=" + "Greetings from Simplifying Tech! Have a nice day!";
+       String message = "&message=" + "hello";
        String sender = "&sender=" + "TXTLCL";
-       String numbers = "&numbers=" + "212+664847911";
+       String numbers = "&numbers=" + "num-telephone";
 
        System.out.println("Construct data");
        try {
